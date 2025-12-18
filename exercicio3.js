@@ -12,3 +12,4 @@ const livros =['Enigma dos 3 corpos','Floresta Negra','O fim da morte','Inferno'
 livros.splice(-1, 1,'Uva')
 console.log([livros])
 
+
