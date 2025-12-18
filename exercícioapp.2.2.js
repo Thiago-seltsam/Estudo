@@ -19,7 +19,7 @@
 // git add .
 // git commit -m "Analisando estudo"
 // git branch -M main
-// git remote add origin https://github.com/Thiago-seltsam/Estudo.git
+// git remote add origin https://github.com/Thiago-seltsam/Estudo.git // não usar
 // git push -u origin main
 
 class ContaBrasil{
